@@ -4,5 +4,5 @@ SELECT FirstName,
        City
 FROM Client WHERE City IN(
 	   'Metairie',
-       'Kenner',
-       'Gretna');
+     	   'Kenner',
+       	   'Gretna');

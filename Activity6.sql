@@ -1,3 +1,3 @@
 USE PersonalTrainer;
-SELECT COUNT(*)
-FROM Goal;
+SELECT Name, LevelId
+FROM Workout;
